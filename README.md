@@ -4,7 +4,7 @@ This repository is a work in progress. It will be updated with fully anonymized 
 ### Internet Wayback Machine
 *Note to self: add links to IWM's snapschots*
 
-### Links to interactive network vizualizations
+### Links to interactive network vizualizations (not mobile-friendly)
 | Year | Repository | Vizualization |
 | --- | --- | --- |
 | 2023 | [__φ(．．)](https://github.com/DrBewd/BGG_top200_at_2_2023) | [⸜(｡˃ ᵕ ˂ )⸝](https://drbewd.github.io/BGG_top200_at_2_2023/#) |
