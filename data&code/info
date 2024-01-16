@@ -1,3 +1,0 @@
-aggregated_time_series -> Contains aggregated data.
-raw -> Contains fully anonymized individual-level data in their unprocessed form in a .csv format. Available starting from 2023.
-time_series -> Contains fully anonymized individual-level data in a .csv format. Longitudinal data structure.
