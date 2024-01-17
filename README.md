@@ -15,8 +15,11 @@ Some of the past content was deleted from BGG. I tried to retrieve those informa
 
 | Year | Page | Link |
 | --- | --- | --- |
-| 2019 | Recap |  |
-| 2020 | Recap |  |
+| 2019 | 1 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/330084/peoples-choice-two-archival-series-2019) |
+| 2019 | 2 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/330084/peoples-choice-two-archival-series-2019?page=2) |
+| 2019 | 3 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/330084/peoples-choice-two-archival-series-2019?page=3) |
+| 2019 | 4 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/330084/peoples-choice-two-archival-series-2019?page=4) |
+| 2020 | TBD | TBD |
 | 2021 | 1 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/292379/2021-peoples-choice-top-games-two-1-200) |
 | 2021 | 2 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/292379/2021-peoples-choice-top-games-two-1-200?page=2) |
 | 2021 | 3 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/292379/2021-peoples-choice-top-games-two-1-200?page=3) |
