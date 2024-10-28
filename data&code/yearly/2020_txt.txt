@@ -1,0 +1,1698 @@
+-----The Castles of Burgundy-----
+[b][size=18]#1[/size][/b] :arrowE::arrowW:
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         1       1
+Score:        509     396
+Avg. vote:    6.8     6.8
+# of votes:   36      28
+Highest vote: 1       1
+#1 votes:     3       1
+[/c]
+
+Note: Match confirmed.
+-----
+-----7 Wonders Duel-----
+[b][size=18]#2[/size][/b] :arrowE::arrowW:
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         2       2
+Score:        446     340
+Avg. vote:    9.8     9.2
+# of votes:   40      29
+Highest vote: 2       1
+#1 votes:     0       1
+[/c]
+
+Note: Internal mismatch, 2 according to the 2021 geeklist, 3 according to the 2022 geeklist. Stats match.
+-----
+-----Wingspan-----
+[b][size=18]#3[/size][/b] :arrowN: 23
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         3       26
+Score:        414     100
+Avg. vote:    7.2     9.9
+# of votes:   30      9
+Highest vote: 1       3
+#1 votes:     5       0
+[/c]
+
+Note: Internal mismatch, 3 according to the 2021 geeklist, 4 according to the 2022 geeklist. Stats match.
+-----
+-----Race for the Galaxy-----
+[b][size=18]#4[/size][/b] :arrowN: 3
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         4       7
+Score:        390     214
+Avg. vote:    6.5     6.7
+# of votes:   27      15
+Highest vote: 1       1
+#1 votes:     5       4
+[/c]
+
+Note: Internal mismatch, 4 according to the 2021 geeklist, 5 according to the 2022 geeklist. Stats match.
+-----
+-----Targi-----
+[b][size=18]#5[/size][/b] :arrowE::arrowW:
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         5       5
+Score:        379     230
+Avg. vote:    10.4    8.9
+# of votes:   36      19
+Highest vote: 1       1
+#1 votes:     2       1
+[/c]
+
+Note: Internal mismatch, 5 according to the 2021 geeklist, 6 according to the 2022 geeklist. Stats match.
+-----
+-----Battle Line-----
+[b][size=18]#6[/size][/b] :arrowN: 28
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         6       34
+Score:        329     79
+Avg. vote:    8.3     11.1
+# of votes:   26      8
+Highest vote: 1       1
+#1 votes:     5       1
+[/c]
+
+Note: Internal mismatch, 6 according to the 2021 geeklist, 7 according to the 2022 geeklist. Stats match.
+-----
+-----Spirit Island-----
+[b][size=18]#7[/size][/b] :arrowN: 6
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         7       13
+Score:        324     146
+Avg. vote:    3.0     4.8
+# of votes:   18      9
+Highest vote: 1       1
+#1 votes:     5       2
+[/c]
+
+Note: Internal mismatch, 7 according to the 2021 geeklist, 8 according to the 2022 geeklist. Stats match.
+-----
+-----Lost Cities-----
+[b][size=18]#8[/size][/b] :arrowN: 10
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         8       18
+Score:        320     131
+Avg. vote:    9.1     11.6
+# of votes:   27      14
+Highest vote: 1       2
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 8 according to the 2021 geeklist, 9 according to the 2022 geeklist. Stats match.
+-----
+-----Patchwork-----
+[b][size=18]#9[/size][/b] :arrowS: 6
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         9       3
+Score:        318     300
+Avg. vote:    11.6    10.6
+# of votes:   34      29
+Highest vote: 1       2
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 9 according to the 2021 geeklist, 10 according to the 2022 geeklist. Stats match.
+-----
+-----Carcassonne-----
+[b][size=18]#10[/size][/b] :arrowS: 6
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         10      4
+Score:        293     248
+Avg. vote:    10.5    6.4
+# of votes:   28      17
+Highest vote: 2       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 10 according to the 2021 geeklist, 11 according to the 2022 geeklist. Stats match.
+-----
+-----Dominion-----
+[b][size=18]#11[/size][/b] :arrowS: 3
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         11      8
+Score:        258     210
+Avg. vote:    9.3     9.3
+# of votes:   22      18
+Highest vote: 2       1
+#1 votes:     0       1
+[/c]
+
+Note: Internal mismatch, 11 according to the 2021 geeklist, 12 according to the 2022 geeklist. Stats match.
+-----
+-----Azul-----
+[b][size=18]#12[/size][/b] :arrowS: 3
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         12      9
+Score:        257     197
+Avg. vote:    9.8     6.9
+# of votes:   23      14
+Highest vote: 1       2
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 12 according to the 2021 geeklist, 14 according to the 2022 geeklist. Stats match.
+-----
+-----Jaipur-----
+[b][size=18]#13[/size][/b] :arrowS: 3
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         13      10
+Score:        253     163
+Avg. vote:    11.6    10.8
+# of votes:   27      16
+Highest vote: 1       3
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 13 according to the 2021 geeklist, 15 according to the 2022 geeklist. Stats match.
+-----
+-----Concordia-----
+[b][size=18]#14[/size][/b] :arrowN: 6
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         14      20
+Score:        248     124
+Avg. vote:    9.7     10.7
+# of votes:   22      12
+Highest vote: 1       5
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 14 according to the 2021 geeklist, 16 according to the 2022 geeklist. Stats match.
+-----
+-----Hanamikoji-----
+[b][size=18]#15[/size][/b] :arrowN: 17
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         15      32
+Score:        245     82
+Avg. vote:    10.3    11.9
+# of votes:   23      9
+Highest vote: 2       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 15 according to the 2021 geeklist, 17 according to the 2022 geeklist. Stats match.
+-----
+-----Terraforming Mars-----
+[b][size=18]#16[/size][/b] :arrowN: 30
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         16      46
+Score:        240     66
+Avg. vote:    5.0     11.6
+# of votes:   15      7
+Highest vote: 1       3
+#1 votes:     2       0
+[/c]
+
+Note: Internal mismatch, 16 according to the 2021 geeklist, 18 according to the 2022 geeklist. Stats match.
+-----
+-----Grand Austria Hotel-----
+[b][size=18]#17[/size][/b] :arrowN: 4
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         17      21
+Score:        212     115
+Avg. vote:    6.9     9.5
+# of votes:   15      10
+Highest vote: 1       2
+#1 votes:     2       0
+[/c]
+
+Note: Internal mismatch, 17 according to the 2021 geeklist, 20 according to the 2022 geeklist. Avg. Score, number of votes and count of #1 votes do not match. Reported stats based on 2021.
+-----
+-----Everdell-----
+[b][size=18]#18 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         18
+Score:        212
+Avg. vote:    5.8
+# of votes:   14
+Highest vote: 1
+#1 votes:     3
+[/c]
+
+Note: Internal mismatch, 5 according to the 2021 geeklist, 6 according to the 2022 geeklist. Avg. Vote, number of votes and count of #1 votes do not match. Reported stats based on 2021.
+-----
+-----Res Arcana-----
+[b][size=18]#19[/size][/b] :arrowN: 72
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         19      91
+Score:        207     34
+Avg. vote:    8.0     4.0
+# of votes:   16      2
+Highest vote: 1       1
+#1 votes:     3       1
+[/c]
+
+Note: Internal mismatch, 19 according to the 2021 geeklist, 22 according to the 2022 geeklist. Stats match.
+-----
+-----Viticulture Essential Edition-----
+[b][size=18]#20[/size][/b] :arrowN: 5
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         20      25
+Score:        207     106
+Avg. vote:    8.8     10.4
+# of votes:   17      10
+Highest vote: 1       3
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 20 according to the 2021 geeklist, 24 according to the 2022 geeklist. Stats match.
+-----
+-----Codenames: Duet-----
+[b][size=18]#21[/size][/b] :arrowN: 23
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         21      44
+Score:        204     68
+Avg. vote:    11.3    11.3
+# of votes:   21      7
+Highest vote: 2       5
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 21 according to the 2021 geeklist, 25 according to the 2022 geeklist. Stats match.
+-----
+-----Five Tribes: The Djinns of Naqala-----
+[b][size=18]#22[/size][/b] :arrowS: 10
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         22      12
+Score:        186     158
+Avg. vote:    10.6    9.7
+# of votes:   18      14
+Highest vote: 2       1
+#1 votes:     0       2
+[/c]
+
+Note: Internal mismatch, 22 according to the 2021 geeklist, 26 according to the 2022 geeklist. Stats match.
+-----
+-----Hive-----
+[b][size=18]#23[/size][/b] :arrowN: 20
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         23      43
+Score:        175     68
+Avg. vote:    10.7    11.3
+# of votes:   17      7
+Highest vote: 1       5
+#1 votes:     3       0
+[/c]
+
+Note: Internal mismatch, 23 according to the 2021 geeklist, 27 according to the 2022 geeklist. Stats match.
+-----
+-----Gloomhaven-----
+[b][size=18]#24[/size][/b] :arrowN: 4
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         24      28
+Score:        174     87
+Avg. vote:    5.2     6.5
+# of votes:   11      6
+Highest vote: 1       1
+#1 votes:     1       1
+[/c]
+
+Note: Internal mismatch, 24 according to the 2021 geeklist, 28 according to the 2022 geeklist. Stats match.
+-----
+-----The Quest for El Dorado-----
+[b][size=18]#25[/size][/b] :arrowN: 46
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         25      71
+Score:        174     45
+Avg. vote:    6.5     6.0
+# of votes:   12      3
+Highest vote: 1       1
+#1 votes:     1       1
+[/c]
+
+Note: Internal mismatch, 25 according to the 2021 geeklist, 29 according to the 2022 geeklist. Stats match.
+-----
+-----Mandala-----
+[b][size=18]#26 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         26
+Score:        167
+Avg. vote:    9.9
+# of votes:   15
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 26 according to the 2021 geeklist, 30 according to the 2022 geeklist. Stats match.
+-----
+-----Pandemic-----
+[b][size=18]#27[/size][/b] :arrowS: 10
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         27      17
+Score:        165     133
+Avg. vote:    11.8    8.9
+# of votes:   18      11
+Highest vote: 2       1
+#1 votes:     0       2
+[/c]
+
+Note: Mismatch, 28 according to Ira (2021); Internal mismatch, 28 according to the 2021 geeklist, 32 according to the 2022 geeklist. Stats match.
+-----
+-----Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases-----
+[b][size=18]#28[/size][/b] :arrowN: 35
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         28      63
+Score:        165     50
+Avg. vote:    8.3     11.0
+# of votes:   13      5
+Highest vote: 2       4
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 27 according to Ira (2021); Internal mismatch, 27 according to the 2021 geeklist, 31 according to the 2022 geeklist. Stats match.
+-----
+-----Great Western Trail-----
+[b][size=18]#29[/size][/b] :arrowN: 49
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         29      78
+Score:        163     41
+Avg. vote:    9.3     10.7
+# of votes:   14      4
+Highest vote: 2       4
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 29 according to the 2021 geeklist, 33 according to the 2022 geeklist. Stats match.
+-----
+-----Star Realms-----
+[b][size=18]#30[/size][/b] :arrowS: 6
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         30      24
+Score:        158     114
+Avg. vote:    8.8     11.5
+# of votes:   13      12
+Highest vote: 1       2
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 30 according to the 2021 geeklist, 34 according to the 2022 geeklist. Stats match.
+-----
+-----Fields of Arle-----
+[b][size=18]#31[/size][/b] :arrowS: 17
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         31      14
+Score:        148     146
+Avg. vote:    6.2     6.4
+# of votes:   10      10
+Highest vote: 2       1
+#1 votes:     0       1
+[/c]
+
+Note: Internal mismatch, 31 according to the 2021 geeklist, 35 according to the 2022 geeklist. Stats match.
+-----
+-----Aeon's End-----
+[b][size=18]#32[/size][/b] :arrowS: 13
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         32      19
+Score:        147     128
+Avg. vote:    8.7     4.9
+# of votes:   12      8
+Highest vote: 1       1
+#1 votes:     1       3
+[/c]
+
+Note: Internal mismatch, 32 according to the 2021 geeklist, 36 according to the 2022 geeklist. Stats match.
+-----
+-----Kingdomino-----
+[b][size=18]#33[/size][/b] :arrowS: 18
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         33      15
+Score:        144     142
+Avg. vote:    10.7    10.1
+# of votes:   14      13
+Highest vote: 4       1
+#1 votes:     0       1
+[/c]
+
+Note: Internal mismatch, 33 according to the 2021 geeklist, 37 according to the 2022 geeklist. Stats match.
+-----
+-----Santorini-----
+[b][size=18]#34[/size][/b] :arrowN: 14
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         34      48
+Score:        141     65
+Avg. vote:    10.1    12.9
+# of votes:   13      8
+Highest vote: 4       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 34 according to the 2021 geeklist, 38 according to the 2022 geeklist. Stats match.
+-----
+-----Innovation-----
+[b][size=18]#35[/size][/b] :arrowS: 6
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         35      29
+Score:        134     86
+Avg. vote:    7.6     8.7
+# of votes:   10      7
+Highest vote: 1       1
+#1 votes:     2       2
+[/c]
+
+Note: Internal mismatch, 35 according to the 2021 geeklist, 39 according to the 2022 geeklist. Stats match.
+-----
+-----A Feast for Odin-----
+[b][size=18]#36[/size][/b] :arrowN: 16
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         36      52
+Score:        130     59
+Avg. vote:    9.2     9.2
+# of votes:   11      5
+Highest vote: 1       2
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 36 according to the 2021 geeklist, 40 according to the 2022 geeklist. Stats match.
+-----
+-----Agricola-----
+[b][size=18]#37[/size][/b] :arrowS: 26
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         37      11
+Score:        129     159
+Avg. vote:    8.1     6.5
+# of votes:   10      11
+Highest vote: 1       1
+#1 votes:     2       1
+[/c]
+
+Note: Internal mismatch, 37 according to the 2021 geeklist, 42 according to the 2022 geeklist. Stats match.
+-----
+-----Arboretum-----
+[b][size=18]#38[/size][/b] :arrowN: 54
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         38      92
+Score:        128     34
+Avg. vote:    10.3    12.5
+# of votes:   12      4
+Highest vote: 1       1
+#1 votes:     2       1
+[/c]
+
+Note: Internal mismatch, 38 according to the 2021 geeklist, 43 according to the 2022 geeklist. Stats match.
+-----
+-----Kingdom Builder-----
+[b][size=18]#39[/size][/b] :arrowS: 2
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         39      37
+Score:        128     .
+Avg. vote:    10.3    .
+# of votes:   12      .
+Highest vote: 2       .
+#1 votes:     0       .
+[/c]
+
+Note: Mismatch, 46 according to Ira (2022).
+-----
+-----Twilight Struggle-----
+[b][size=18]#40[/size][/b] :arrowS: 10
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         40      30
+Score:        124     83
+Avg. vote:    8.6     4.4
+# of votes:   10      5
+Highest vote: 1       1
+#1 votes:     2       1
+[/c]
+
+Note: Internal mismatch, 40 according to the 2021 geeklist, 45 according to the 2022 geeklist. Stats match.
+-----
+-----Watergate-----
+[b][size=18]#41 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         41
+Score:        111
+Avg. vote:    9.9
+# of votes:   10
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Internal mismatch, 41 according to the 2021 geeklist, 46 according to the 2022 geeklist. Stats match.
+-----
+-----Pandemic Legacy: Season 1-----
+[b][size=18]#42[/size][/b] :arrowS: 26
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         42      16
+Score:        108     134
+Avg. vote:    5.6     5.2
+# of votes:   7       8
+Highest vote: 1       1
+#1 votes:     2       4
+[/c]
+
+Note: Internal mismatch, 42 according to the 2021 geeklist, 47 according to the 2022 geeklist. Stats match.
+-----
+-----Cribbage-----
+[b][size=18]#43[/size][/b] :arrowS: 8
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         43      35
+Score:        107     77
+Avg. vote:    9.1     10.0
+# of votes:   9       7
+Highest vote: 1       1
+#1 votes:     2       1
+[/c]
+
+Note: Internal mismatch, 43 according to the 2021 geeklist, 49 according to the 2022 geeklist. Stats match.
+-----
+-----Century: Spice Road-----
+[b][size=18]#44[/size][/b] :arrowN: 39
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         44      83
+Score:        104     38
+Avg. vote:    10.6    11.5
+# of votes:   10      4
+Highest vote: 5       6
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 44 according to the 2021 geeklist, 50 according to the 2022 geeklist. Stats match.
+-----
+-----The Fox in the Forest-----
+[b][size=18]#45[/size][/b] :arrowS: 18
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         45      27
+Score:        102     88
+Avg. vote:    12.5    11.2
+# of votes:   12      9
+Highest vote: 2       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 45 according to the 2021 geeklist, 51 according to the 2022 geeklist. Stats match.
+-----
+-----Splendor-----
+[b][size=18]#46[/size][/b] :arrowS: 40
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         46      6
+Score:        100     222
+Avg. vote:    15.1    10.9
+# of votes:   17      22
+Highest vote: 7       1
+#1 votes:     0       1
+[/c]
+
+Note: Internal mismatch, 46 according to the 2021 geeklist, 52 according to the 2022 geeklist. Stats match.
+-----
+-----Crokinole-----
+[b][size=18]#47 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         47
+Score:        99
+Avg. vote:    8.6
+# of votes:   8
+Highest vote: 1
+#1 votes:     2
+[/c]
+
+Note: Internal mismatch, 47 according to the 2021 geeklist, 53 according to the 2022 geeklist. Stats match.
+-----
+-----Sagrada-----
+[b][size=18]#48[/size][/b] :arrowS: 8
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         48      40
+Score:        98      72
+Avg. vote:    8.7     9.0
+# of votes:   8       6
+Highest vote: 3       3
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 49 according to Ira (2021); Internal mismatch, 49 according to the 2021 geeklist, 55 according to the 2022 geeklist. Stats match.
+-----
+-----Paladins of the West Kingdom-----
+[b][size=18]#49 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         49
+Score:        98
+Avg. vote:    8.9
+# of votes:   7
+Highest vote: 4
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 48 according to Ira (2021); Internal mismatch, 48 according to the 2021 geeklist, 54 according to the 2022 geeklist. Avg. Vote and highest vote do not match. Reported stats based on 2021.
+-----
+-----Imperial Settlers-----
+[b][size=18]#50[/size][/b] :arrowS: 3
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         50      47
+Score:        97      65
+Avg. vote:    7.1     8.0
+# of votes:   7       5
+Highest vote: 4       1
+#1 votes:     0       1
+[/c]
+-----
+-----Orléans-----
+[b][size=18]#51[/size][/b] :arrowS: 28
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         51      23
+Score:        96      115
+Avg. vote:    12.3    10.5
+# of votes:   11      11
+Highest vote: 3       4
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 52 according to Ira (2021); Internal mismatch, 52 according to the 2021 geeklist, 58 according to the 2022 geeklist. Stats match.
+-----
+-----San Juan (Second Edition)-----
+[b][size=18]#52[/size][/b] :arrowS: 1
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         52      51
+Score:        96      60
+Avg. vote:    11.4    11.0
+# of votes:   10      6
+Highest vote: 3       2
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 51 according to Ira (2021); Internal mismatch, 51 according to the 2021 geeklist, 57 according to the 2022 geeklist. Stats match.
+-----
+-----Underwater Cities-----
+[b][size=18]#53[/size][/b] :arrowN: 46
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         53      99
+Score:        92      32
+Avg. vote:    7.9     10.3
+# of votes:   7       3
+Highest vote: 1       2
+#1 votes:     1       0
+[/c]
+
+Note: Internal mismatch, 53 according to the 2021 geeklist, 59 according to the 2022 geeklist. Stats match.
+-----
+-----Troyes-----
+[b][size=18]#54[/size][/b] :arrowS: 32
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         54      22
+Score:        92      115
+Avg. vote:    10.8    6.6
+# of votes:   9       8
+Highest vote: 5       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 54 according to the 2021 geeklist, 60 according to the 2022 geeklist. Stats match.
+-----
+-----Legendary: A Marvel Deck Building Game-----
+[b][size=18]#55[/size][/b] :arrowS: 22
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         55      33
+Score:        91      80
+Avg. vote:    8.0     5.0
+# of votes:   7       5
+Highest vote: 2       1
+#1 votes:     0       1
+[/c]
+
+Note: Internal mismatch, 55 according to the 2021 geeklist, 61 according to the 2022 geeklist. Stats match.
+-----
+-----Clank!: A Deck-Building Adventure-----
+[b][size=18]#56[/size][/b] :arrowN: 32
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         56      88
+Score:        87      36
+Avg. vote:    12.3    12.0
+# of votes:   10      4
+Highest vote: 3       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 56 according to the 2021 geeklist, 62 according to the 2022 geeklist. Stats match.
+-----
+-----Hanabi-----
+[b][size=18]#57[/size][/b] :arrowN: 24
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         57      81
+Score:        86      39
+Avg. vote:    11.4    13.2
+# of votes:   9       5
+Highest vote: 2       8
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 57 according to the 2021 geeklist, 63 according to the 2022 geeklist. Stats match.
+-----
+-----Through the Ages: A New Story of Civilization-----
+[b][size=18]#58 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         58
+Score:        85
+Avg. vote:    4.0
+# of votes:   5
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 58 according to the 2021 geeklist, 64 according to the 2022 geeklist. Stats match.
+-----
+-----Brass: Birmingham-----
+[b][size=18]#59[/size][/b] :arrowN: 20
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         59      79
+Score:        85      40
+Avg. vote:    10.4    7.7
+# of votes:   8       3
+Highest vote: 2       2
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 60 according to Ira (2021); Internal mismatch, 60 according to the 2021 geeklist, 66 according to the 2022 geeklist. Stats match.
+-----
+-----PARKS-----
+[b][size=18]#60 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         60
+Score:        85
+Avg. vote:    9.4
+# of votes:   7
+Highest vote: 4
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 59 according to Ira (2021); Internal mismatch, 59 according to the 2021 geeklist, 65 according to the 2022 geeklist. Stats match.
+-----
+-----Suburbia-----
+[b][size=18]#61 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         61
+Score:        84
+Avg. vote:    9.0
+# of votes:   7
+Highest vote: 3
+#1 votes:     0
+[/c]
+-----
+-----The Quacks of Quedlinburg-----
+[b][size=18]#62 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         62
+Score:        82
+Avg. vote:    7.3
+# of votes:   6
+Highest vote: 3
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 62 according to the 2021 geeklist, 68 according to the 2022 geeklist. Stats match.
+-----
+-----Obsession-----
+[b][size=18]#63 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         63
+Score:        81
+Avg. vote:    7.5
+# of votes:   6
+Highest vote: 1
+#1 votes:     2
+[/c]
+
+Note: Internal mismatch, 63 according to the 2021 geeklist, 69 according to the 2022 geeklist. Stats match.
+-----
+-----Android: Netrunner-----
+[b][size=18]#64 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         64
+Score:        81
+Avg. vote:    7.5
+# of votes:   6
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 64 according to the 2021 geeklist, 70 according to the 2022 geeklist. Stats match.
+-----
+-----War of the Ring: Second Edition-----
+[b][size=18]#65[/size][/b] :arrowS: 20
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         65      45
+Score:        80      67
+Avg. vote:    7.7     4.2
+# of votes:   6       4
+Highest vote: 1       1
+#1 votes:     1       1
+[/c]
+
+Note: Internal mismatch, 65 according to the 2021 geeklist, 71 according to the 2022 geeklist. Score does not match. Reported stats based on 2021.
+-----
+-----Go-----
+[b][size=18]#66[/size][/b] :arrowN: 20
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         66      86
+Score:        76      36
+Avg. vote:    8.3     3.0
+# of votes:   6       2
+Highest vote: 1       1
+#1 votes:     3       1
+[/c]
+
+Note: Mismatch, 67 according to Ira (2021); Internal mismatch, 67 according to the 2021 geeklist, 74 according to the 2022 geeklist. Stats match.
+-----
+-----Klask-----
+[b][size=18]#67 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         67
+Score:        76
+Avg. vote:    5.8
+# of votes:   5
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 66 according to Ira (2021); Internal mismatch, 66 according to the 2021 geeklist, 72 according to the 2022 geeklist. Stats match.
+-----
+-----Ticket to Ride: Nordic Countries-----
+[b][size=18]#68[/size][/b] :arrowS: 30
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         68      38
+Score:        75      72
+Avg. vote:    6.0     3.0
+# of votes:   5       4
+Highest vote: 1       1
+#1 votes:     2       1
+[/c]
+
+Note: Internal mismatch, 68 according to the 2021 geeklist, 75 according to the 2022 geeklist. Stats match.
+-----
+-----Claustrophobia-----
+[b][size=18]#69 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         69
+Score:        75
+Avg. vote:    8.5
+# of votes:   6
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Mismatch, 70 according to Ira (2021); Internal mismatch, 70 according to the 2021 geeklist, 77 according to the 2022 geeklist. Stats match.
+-----
+-----Magic: The Gathering-----
+[b][size=18]#70[/size][/b] :arrowN: 24
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         70      94
+Score:        75      34
+Avg. vote:    6.0     9.7
+# of votes:   5       3
+Highest vote: 2       3
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 69 according to Ira (2021); Internal mismatch, 69 according to the 2021 geeklist, 76 according to the 2022 geeklist. Stats match.
+-----
+-----Habitats-----
+[b][size=18]#71 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         71
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Agricola: All Creatures Big and Small-----
+[b][size=18]#72 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         72
+Score:        73
+Avg. vote:    8.8
+# of votes:   6
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Internal mismatch, 72 according to the 2021 geeklist, 79 according to the 2022 geeklist. Stats match.
+-----
+-----13 Days: The Cuban Missile Crisis-----
+[b][size=18]#73 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         73
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Architects of the West Kingdom-----
+[b][size=18]#74 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         74
+Score:        69
+Avg. vote:    9.5
+# of votes:   6
+Highest vote: 2
+#1 votes:     0
+[/c]
+-----
+-----Chronicles of Crime-----
+[b][size=18]#75[/size][/b] :arrowS: 11
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         75      64
+Score:        68      .
+Avg. vote:    7.4     .
+# of votes:   5       .
+Highest vote: 3       .
+#1 votes:     0       .
+[/c]
+
+Note: Mismatch, 83 according to Ira (2022).
+-----
+-----Air, Land & Sea-----
+[b][size=18]#76 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         76
+Score:        68
+Avg. vote:    11.3
+# of votes:   7
+Highest vote: 4
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 76 according to the 2021 geeklist, 84 according to the 2022 geeklist. Stats match.
+-----
+-----Trambahn-----
+[b][size=18]#77 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         77
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Maracaibo-----
+[b][size=18]#78 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         78
+Score:        65
+Avg. vote:    8.0
+# of votes:   5
+Highest vote: 3
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 78 according to the 2021 geeklist, 86 according to the 2022 geeklist. Stats match.
+-----
+-----Pandemic: Iberia-----
+[b][size=18]#79[/size][/b] :arrowN: 14
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         79      93
+Score:        64      34
+Avg. vote:    10.3    12.5
+# of votes:   6       4
+Highest vote: 5       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 79 according to the 2021 geeklist, 88 according to the 2022 geeklist. Stats match.
+-----
+-----Rajas of the Ganges-----
+[b][size=18]#80 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         80
+Score:        63
+Avg. vote:    10.5
+# of votes:   6
+Highest vote: 4
+#1 votes:     0
+[/c]
+-----
+-----Haggis-----
+[b][size=18]#81[/size][/b] :arrowN: 15
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         81      96
+Score:        .       .
+Avg. vote:    .       .
+# of votes:   .       .
+Highest vote: .       .
+#1 votes:     .       .
+[/c]
+-----
+-----Dinosaur Island-----
+[b][size=18]#82 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         82
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Gizmos-----
+[b][size=18]#83 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         83
+Score:        61
+Avg. vote:    10.8
+# of votes:   6
+Highest vote: 4
+#1 votes:     0
+[/c]
+-----
+-----Codex: Card-Time Strategy -- Deluxe Set-----
+[b][size=18]#84 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         84
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Roll for the Galaxy-----
+[b][size=18]#85 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         85
+Score:        60
+Avg. vote:    12.4
+# of votes:   7
+Highest vote: 6
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 85 according to the 2021 geeklist, 94 according to the 2022 geeklist. Stats match.
+-----
+-----Azul: Summer Pavilion-----
+[b][size=18]#86 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         86
+Score:        59
+Avg. vote:    9.2
+# of votes:   5
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 87 according to Ira (2021); Internal mismatch, 87 according to the 2021 geeklist, 96 according to the 2022 geeklist. Stats match.
+-----
+-----Arkham Horror: The Card Game-----
+[b][size=18]#87[/size][/b] :arrowS: 13
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         87      74
+Score:        59      42
+Avg. vote:    6.2     7.0
+# of votes:   5       3
+Highest vote: 2       1
+#1 votes:     0       1
+[/c]
+
+Note: Mismatch, 86 according to Ira (2021); Internal mismatch, 86 according to the 2021 geeklist, 95 according to the 2022 geeklist. Number of votes do not match. Reported stats based on 2021.
+-----
+-----Raiders of the North Sea-----
+[b][size=18]#88 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         88
+Score:        59
+Avg. vote:    9.2
+# of votes:   5
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 86 according to Ira (2021); Internal mismatch, 86 according to the 2021 geeklist, 96 according to the 2022 geeklist. Stats match.
+-----
+-----Mystic Vale-----
+[b][size=18]#89[/size][/b] :arrowS: 20
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         89      69
+Score:        58      46
+Avg. vote:    9.4     9.5
+# of votes:   5       4
+Highest vote: 2       4
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 89 according to the 2021 geeklist, 98 according to the 2022 geeklist. Stats match.
+-----
+-----Baseball Highlights: 2045-----
+[b][size=18]#90 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         90
+Score:        56
+Avg. vote:    9.8
+# of votes:   5
+Highest vote: 2
+#1 votes:     0
+[/c]
+-----
+-----The Isle of Cats-----
+[b][size=18]#91 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         91
+Score:        56
+Avg. vote:    11.7
+# of votes:   6
+Highest vote: 7
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 91 according to the 2021 geeklist, 100 according to the 2022 geeklist. Stats match.
+-----
+-----The Lord of the Rings: The Card Game-----
+[b][size=18]#92[/size][/b] :arrowS: 61
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         92      31
+Score:        55      82
+Avg. vote:    2.7     7.3
+# of votes:   3       6
+Highest vote: 1       1
+#1 votes:     1       1
+[/c]
+
+Note: Internal mismatch, 92 according to the 2021 geeklist, 101 according to the 2022 geeklist. Stats match.
+-----
+-----The Voyages of Marco Polo-----
+[b][size=18]#93[/size][/b] :arrowS: 57
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         93      36
+Score:        55      77
+Avg. vote:    10.0    11.4
+# of votes:   5       8
+Highest vote: 4       3
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 93 according to the 2021 geeklist, 102 according to the 2022 geeklist. Stats match.
+-----
+-----KeyForge: Call of the Archons-----
+[b][size=18]#94[/size][/b] :arrowS: 27
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         94      67
+Score:        55      48
+Avg. vote:    11.8    5.0
+# of votes:   6       3
+Highest vote: 6       4
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 94 according to the 2021 geeklist, 103 according to the 2022 geeklist. Stats match.
+-----
+-----At the Gates of Loyang-----
+[b][size=18]#95 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         95
+Score:        54
+Avg. vote:    10.2
+# of votes:   5
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Mismatch, 96 according to Ira (2021).
+-----
+-----Brass: Lancashire-----
+[b][size=18]#96[/size][/b] :arrowS: 16
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         96      80
+Score:        .       .
+Avg. vote:    .       .
+# of votes:   .       .
+Highest vote: .       .
+#1 votes:     .       .
+[/c]
+-----
+-----London (Second Edition)-----
+[b][size=18]#97 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         97
+Score:        53
+Avg. vote:    7.7
+# of votes:   4
+Highest vote: 1
+#1 votes:     1
+[/c]
+-----
+-----Commands & Colors: Ancients-----
+[b][size=18]#98 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         98
+Score:        53
+Avg. vote:    7.7
+# of votes:   4
+Highest vote: 7
+#1 votes:     0
+[/c]
+-----
+-----Nusfjord-----
+[b][size=18]#99 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         99
+Score:        51
+Avg. vote:    8.2
+# of votes:   4
+Highest vote: 4
+#1 votes:     0
+[/c]
+-----
+-----Rococo-----
+[b][size=18]#100 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         100
+Score:        51
+Avg. vote:    10.8
+# of votes:   5
+Highest vote: 4
+#1 votes:     0
+[/c]
+-----
+-----Backgammon-----
+[b][size=18]#101 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         101
+Score:        50
+Avg. vote:    4.3
+# of votes:   3
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 101 according to the 2021 geeklist, 110 according to the 2022 geeklist. Stats match.
+-----
+-----Elements-----
+[b][size=18]#102 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         102
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Gloomhaven: Jaws of the Lion-----
+[b][size=18]#103 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         103
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Chess-----
+[b][size=18]#104 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         104
+Score:        49
+Avg. vote:    8.7
+# of votes:   4
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Internal mismatch, 104 according to the 2021 geeklist, 112 according to the 2022 geeklist. Stats match.
+-----
+-----Onitama-----
+[b][size=18]#105[/size][/b] :arrowS: 48
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         105     57
+Score:        49      52
+Avg. vote:    11.2    12.3
+# of votes:   5       6
+Highest vote: 2       7
+#1 votes:     0       0
+[/c]
+
+Note: Mismatch, 106 according to Ira (2021); Internal mismatch, 106 according to the 2021 geeklist, 114 according to the 2022 geeklist. Stats match.
+-----
+-----Marvel Champions: The Card Game-----
+[b][size=18]#106 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         106
+Score:        49
+Avg. vote:    8.7
+# of votes:   4
+Highest vote: 5
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 105 according to Ira (2021); Internal mismatch, 105 according to the 2021 geeklist, 113 according to the 2022 geeklist. Stats match.
+-----
+-----The Lord of the Rings: Journeys in Middle-earth-----
+[b][size=18]#107 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         107
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Paperback-----
+[b][size=18]#108 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         108
+Score:        47
+Avg. vote:    5.3
+# of votes:   3
+Highest vote: 3
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 108 according to the 2021 geeklist, 116 according to the 2022 geeklist. Stats match.
+-----
+-----Seasons-----
+[b][size=18]#109 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         109
+Score:        47
+Avg. vote:    9.2
+# of votes:   4
+Highest vote: 4
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 109 according to the 2021 geeklist, 117 according to the 2022 geeklist. Stats match.
+-----
+-----Circle the Wagons-----
+[b][size=18]#110[/size][/b] :arrowS: 37
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         110     73
+Score:        46      43
+Avg. vote:    9.5     10.2
+# of votes:   4       4
+Highest vote: 1       3
+#1 votes:     1       0
+[/c]
+-----
+-----Undaunted: Normandy-----
+[b][size=18]#111 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         111
+Score:        45
+Avg. vote:    9.7
+# of votes:   4
+Highest vote: 5
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 111 according to the 2021 geeklist, 120 according to the 2022 geeklist. Stats match.
+-----
+-----The 7th Continent-----
+[b][size=18]#112[/size][/b] :arrowS: 51
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         112     61
+Score:        45      50
+Avg. vote:    9.7     8.5
+# of votes:   4       4
+Highest vote: 6       1
+#1 votes:     0       1
+[/c]
+
+Note: Mismatch, 111 according to Ira (2021).
+-----
+-----Tash-Kalar: Arena of Legends-----
+[b][size=18]#113 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         113
+Score:        44
+Avg. vote:    10.0
+# of votes:   4
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 113 according to the 2021 geeklist, not ranked according to the 2022 geeklist.
+-----
+-----Welcome To...-----
+[b][size=18]#114[/size][/b] :arrowS: 73
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         114     41
+Score:        44      71
+Avg. vote:    13.7    10.9
+# of votes:   6       7
+Highest vote: 7       2
+#1 votes:     0       0
+[/c]
+
+Note: Internal mismatch, 114 according to the 2021 geeklist, 122 according to the 2022 geeklist. Stats match.
+-----
+-----Runebound (Third Edition)-----
+[b][size=18]#115 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         115
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Cat Lady-----
+[b][size=18]#116 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         116
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+
+Note: Mismatch, 108 according to Ira (2021). In 2021 this and Paperback were tied. I think that Ira mistakenly copy/pasted Paperback's results into Cat Lady's entry. As a result, the reported stats for this one are clearly wrong so I omitted them entirely.
+-----
+-----Tapestry-----
+[b][size=18]#117 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         117
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----The Fox in the Forest Duet-----
+[b][size=18]#118 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         118
+Score:        42
+Avg. vote:    7.0
+# of votes:   3
+Highest vote: 4
+#1 votes:     0
+[/c]
+
+Note: Mismtach, 125 according to Ira (2022).
+-----
+-----Pax Pamir (Second Edition)-----
+[b][size=18]#119 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         119
+Score:        41
+Avg. vote:    7.3
+# of votes:   3
+Highest vote: 1
+#1 votes:     1
+[/c]
+-----
+-----Lisboa-----
+[b][size=18]#120 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         120
+Score:        41
+Avg. vote:    7.3
+# of votes:   3
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Mismatch, 119 according to Ira (2021).
+-----
+-----Tzolk'in: The Mayan Calendar-----
+[b][size=18]#121[/size][/b] :arrowS: 79
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         121     42
+Score:        41      69
+Avg. vote:    7.3     7.2
+# of votes:   3       5
+Highest vote: 4       5
+#1 votes:     0       0
+[/c]
+-----
+-----Scrabble-----
+[b][size=18]#122 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         122
+Score:        40
+Avg. vote:    7.7
+# of votes:   3
+Highest vote: 2
+#1 votes:     0
+[/c]
+
+Note: Internal mismatch, 122 according to the 2021 geeklist, 132 according to the 2022 geeklist. Stats match.
+-----
+-----Descent: Journeys in the Dark (Second Edition)-----
+[b][size=18]#123 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         123
+Score:        .
+Avg. vote:    .
+# of votes:   .
+Highest vote: .
+#1 votes:     .
+[/c]
+-----
+-----Morels-----
+[b][size=18]#124 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         124
+Score:        40
+Avg. vote:    15.3
+# of votes:   7
+Highest vote: 3
+#1 votes:     0
+[/c]
+
+Note: Mismatch, 123 according to Ira (2021).
+-----
+-----Lewis & Clark: The Expedition-----
+[b][size=18]#125 [color=#ff2600]**NEW**[/color][/size][/b]
+[c]
+              [u]2020[/u]    [u]2019[/u]
+Rank:         125
+Score:        39
+Avg. vote:    1.5
+# of votes:   2
+Highest vote: 1
+#1 votes:     1
+[/c]
+
+Note: Mismatch, 124 according to Ira (2021).
+-----
