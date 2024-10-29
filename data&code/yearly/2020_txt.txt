@@ -234,7 +234,7 @@ Highest vote: 1       2
 #1 votes:     2       0
 [/c]
 
-Note: Internal mismatch, 17 according to the 2021 geeklist, 20 according to the 2022 geeklist. Avg. Score, number of votes and count of #1 votes do not match. Reported stats based on 2021.
+Note: Internal mismatch, 17 according to the 2021 geeklist, 20 according to the 2022 geeklist. Avg. Vote, number of votes and count of #1 votes do not match. Reported stats based on 2021.
 -----
 -----Everdell-----
 [b][size=18]#18 [color=#ff2600]**NEW**[/color][/size][/b]
@@ -248,7 +248,7 @@ Highest vote: 1
 #1 votes:     3
 [/c]
 
-Note: Internal mismatch, 5 according to the 2021 geeklist, 6 according to the 2022 geeklist. Avg. Vote, number of votes and count of #1 votes do not match. Reported stats based on 2021.
+Note: Internal mismatch, 18 according to the 2021 geeklist, 21 according to the 2022 geeklist. Avg. Vote, number of votes and count of #1 votes do not match. Reported stats based on 2021.
 -----
 -----Res Arcana-----
 [b][size=18]#19[/size][/b] :arrowN: 72
