@@ -1,6 +1,13 @@
 # BGG's top 200 games at 2: data repository
 This repository is a work in progress. It will be updated with fully anonymized data collected on BGG and code used to analyze it over the next few weeks/months.
 
+### Tip jar
+If you wish to donate or to support specific initiatives, you can do so by clicking here:
+
+[<img src="images/bmc-logo.png" alt="Alt text" title="Donations" width="400">](https://www.buymeacoffee.com/dr_bewd)
+
+For requests or questions, feel free to reach out via geekmail [here](https://boardgamegeek.com/user/Dr_Bewd).
+
 ### Overview
 The user who collected data between 2019 and 2020 deleted the results and, unfortunately, all available snapshot in the Wayback Machine are blank. The user who worked on the top 200 from 2021 to 2022 clearly had access to the data (unclear whether he had a complete dataset or just the aggregated statistics), but he never replied to any of my querries. Data for 2019-2020 were retroactively pieced together using the info available in later geeklists and blog posts from that period, but there are major blind spots. Data for 2021-2022 were instead retrieved directly from the existing geeklists, but individual-level data and information about games that received less than 2 votes are unavailable. Finally, available aggregated statistics for games that didn't make it to the top 200 during these years are limited.
 
@@ -52,10 +59,3 @@ Some of the past content was deleted from BGG. I tried to retrieve those informa
 | 2023 | 8 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/328691/2023-peoples-choice-top-games-two-200-1?page=8) |
 | 2023 | 9 | [( ╯°□°)╯ ┻━━┻](https://web.archive.org/web/20240000000000*/https://boardgamegeek.com/geeklist/328691/2023-peoples-choice-top-games-two-200-1?page=9) |
 | 2024 | TBD | TBD |
-
-### Tip jar
-If you wish to donate or to support specific initiatives, you can do so by clicking here:
-
-[<img src="images/bmc-logo.png" alt="Alt text" title="Donations" width="400">](https://www.buymeacoffee.com/dr_bewd)
-
-For requests or questions, feel free to reach out via geekmail [here](https://boardgamegeek.com/user/Dr_Bewd).
