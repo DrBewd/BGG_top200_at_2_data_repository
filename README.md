@@ -2,7 +2,7 @@
 This repository is a work in progress. It will be updated with fully anonymized data collected on BGG and code used to analyze it over the next few weeks/months.
 
 ### Tip jar
-If you wish to donate or to support specific initiatives, you can do so by clicking here:
+If you wish to donate or to support specific initiatives (e.g., finance the yearly survey or sponsor a prize), you can do so by clicking here:
 
 [<img src="images/bmc-logo.png" alt="Alt text" title="Donations" width="400">](https://www.buymeacoffee.com/dr_bewd)
 
