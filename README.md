@@ -1,5 +1,5 @@
 # BGG's top 200 games at 2: data repository
-This repository is a work in progress. It will be updated with fully anonymized data collected on BGG and code used to analyze it over the next few weeks/months.
+This repository is a work in progress.
 
 ### Tip jar
 If you wish to donate or to support specific initiatives (e.g., finance the yearly survey or sponsor a prize), you can do so by clicking here:
@@ -10,6 +10,8 @@ For requests or questions, feel free to reach out via geekmail [here](https://bo
 
 ### Overview
 The user who collected data between 2019 and 2020 deleted the results and, unfortunately, all available snapshot in the Wayback Machine are blank. The user who worked on the top 200 from 2021 to 2022 clearly had access to the data (unclear whether he had a complete dataset or just the aggregated statistics), but he never replied to any of my querries. Data for 2019-2020 were retroactively pieced together using the info available in later geeklists and blog posts from that period, but there are major blind spots. Data for 2021-2022 were instead retrieved directly from the existing geeklists, but individual-level data and information about games that received less than 2 votes are unavailable. Finally, available aggregated statistics for games that didn't make it to the top 200 during these years are limited.
+
+If you're looking for something that was originally posted on BGG, our [central HUB](https://boardgamegeek.com/thread/3430158/top-games-with-two-central-hub-thread) probably has the right link for you.
 
 ### Links to interactive network visualizations (not mobile-friendly)
 | Year | Repository | Visualization |
