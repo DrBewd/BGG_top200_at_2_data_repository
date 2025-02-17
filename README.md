@@ -17,7 +17,7 @@ If you're looking for something that was originally posted on BGG, our [central 
 | Year | Repository | Visualization |
 | --- | --- | --- |
 | 2023 | [__φ(．．)](https://github.com/DrBewd/BGG_top200_at_2_2023) | [⸜(｡˃ ᵕ ˂ )⸝](https://drbewd.github.io/BGG_top200_at_2_2023/#) |
-| 2024 | TBD | TBD |
+| 2024 | [__φ(．．)](https://github.com/DrBewd/BGG_top200_at_2_2024) | TBD |
 
 ### Internet Archive Wayback Machine
 Some of the past content was deleted from BGG. I tried to retrieve those information from the Wayback Machine, but unfortunately the available snapshots were all blank. To avoid similar issues in future, I updated all the snapshots for currently available content page by page. If the need arises again, all the links can be found here:
