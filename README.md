@@ -1,5 +1,7 @@
+[<img src="images/banner_2025.JPG" alt="Alt text" title="Banner" width="auto">](https://boardgamegeek.com/thread/3430158/top-games-with-two-central-hub-thread)
+
 # BGG's top 200 games at 2: data repository
-This repository is a work in progress.
+This repository is a work in progress. 
 
 ### Tip jar
 If you wish to donate or to support specific initiatives (e.g., finance the yearly survey or sponsor a prize), you can do so by clicking here:
@@ -17,10 +19,12 @@ If you're looking for something that was originally posted on BGG, our [central 
 | Year | Repository | Visualization |
 | --- | --- | --- |
 | 2023 | [__φ(．．)](https://github.com/DrBewd/BGG_top200_at_2_2023) | [⸜(｡˃ ᵕ ˂ )⸝](https://drbewd.github.io/BGG_top200_at_2_2023/#) |
-| 2024 | [__φ(．．)](https://github.com/DrBewd/BGG_top200_at_2_2024) | TBD |
+| 2024 | [__φ(．．)](https://github.com/DrBewd/BGG_top200_at_2_2024) | [⸜(｡˃ ᵕ ˂ )⸝](https://drbewd.github.io/BGG_top200_at_2_2024/#) |
 
 ### Internet Archive Wayback Machine
 Some of the past content was deleted from BGG. I tried to retrieve those information from the Wayback Machine, but unfortunately the available snapshots were all blank. To avoid similar issues in future, I updated all the snapshots for currently available content page by page. If the need arises again, all the links can be found here:
+
+*Note: It looks like the Wayback Machine struggles to render geeklists for some reason and even the new snapshots are now not visualized correctly
 
 | Year | Page | Link |
 | --- | --- | --- |
